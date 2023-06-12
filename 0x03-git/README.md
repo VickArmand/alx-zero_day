@@ -18,4 +18,6 @@ Few command snippets:<br>
 <li><code>$ git push origin <branch name></code>-> push commmited files to remote repo</li>
 <li><code>$ git init </code> -> initialize a new git local repository</li>
 <li><code>$ git remote add origin <git url></code>-> Adds a link to the remote repo</li>
+<li><code>$ git config --global user.name <username></code>-> Configures the username to the local repo</li>
+<li><code>$ git config --global user.email <email></code>-> Configures the email to the local repo</li>
 </ul>
