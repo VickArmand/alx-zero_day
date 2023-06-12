@@ -16,6 +16,6 @@ Few command snippets:<br>
 <li><code>$ git add <file></code> -> Add file to commit space </li>
 <li><code>$ git commit -m <commitmessage></code>-> Commits files</li>
 <li><code>$ git push origin <branch name></code>-> push commmited files to remote repo</li>
-<li><code>% git init </code> -> initialize a new git local repository</li>
+<li><code>$ git init </code> -> initialize a new git local repository</li>
 <li><code>$ git remote add origin <git url></code>-> Adds a link to the remote repo</li>
 </ul>
