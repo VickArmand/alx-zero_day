@@ -20,4 +20,5 @@ Few command snippets:<br>
 <li><code>$ git remote add origin "git_url" </code>-> Adds a link to the remote repo</li>
 <li><code>$ git config --global user.name "username" </code>-> Configures the username to the local repo</li>
 <li><code>$ git config --global user.email "email"</code>-> Configures the email to the local repo</li>
+<li><code>$ git remote --v</code>-> Shows the remote origin</li>
 </ul>
